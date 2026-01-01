@@ -1,0 +1,14 @@
+{
+  "appId": "com.aetheros.simulator",
+  "appName": "AetherOS",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
